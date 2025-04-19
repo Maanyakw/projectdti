@@ -1,1 +1,58 @@
+🌍 Globe and Grad
+
+Globe and Grad is a student-centric travel assistant that helps students explore new cities across India while staying in university hostels. It features a smart chatbot that answers queries about hostel stays, prices, timings, locations, and nearby tourist attractions.
+
+ 🚀 Features
+
+- 🏨 Search & book university hostels
+- 💬 AI-powered chatbot (Globe & Grad Assistant) for instant answers
+- 📍 Explore top places to visit near universities
+- 🔎 Filter hostels by city, state, budget, or travel dates
+- 📱 Mobile-friendly & user-first design
+
+---
+
+ 💡 Use Case
+
+Imagine you're a student who wants to attend a seminar in another state or just take a budget trip. Instead of expensive hotels, you can stay at a university hostel and explore the area like a local – with help from an AI chatbot that answers all your questions!
+
+---
+
+ 🧠 Tech Stack
+
+- Frontend: React.js / Flutter (based on your implementation)
+- Backend: Node.js / Flask
+- Database: Firebase / MongoDB
+- Chatbot: OpenAI API 
+- Maps & Location: Google Maps API (or similar)
+
+---
+
+ 🤖 How the Chatbot Works
+The chatbot uses natural language processing to understand queries like:
+
+  > "What’s the price for hostel near IIT Bombay?"
+
+  > "Any places to visit near Delhi University?"
+
+---
+
+ 📍 Future Enhancements
+  > Multi-language chatbot support
+
+  > Booking system integration with payment
+
+  > Student reviews and ratings
+
+  > Offline saved places
+
+---
+
+ 📬 Contact
+  Made with ❤️ by Maanya Kwatra, Ananya Dixit, Anshika Jain, Tashu Singh
+  📱 LinkedIn https://www.linkedin.com/in/maanya-kwatra-9a0034295/
+  📱 GitHub 
+
+
+
 
